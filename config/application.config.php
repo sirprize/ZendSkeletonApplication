@@ -6,6 +6,7 @@ return array(
     ),
     'modules' => array(
         'Application',
+		'Frontend'
     ),
     'module_listener_options' => array( 
         'config_cache_enabled'    => false,
